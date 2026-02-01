@@ -3,7 +3,6 @@ title = "Networking Protocols: A Developer's Guide"
 authors = ["CloudStreet"]
 description = "A comprehensive guide to understanding network protocols, from fundamentals to advanced concepts"
 language = "en"
-multilingual = false
 src = "src"
 
 [build]
